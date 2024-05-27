@@ -2,12 +2,11 @@
 <html lang="pt-br">
    <head>
       <meta charset="utf-8">
-<style>
-</style>
+    <link rel="stylesheet" type="text/css"href="style.css"/>
 </head>
-   <body>
+<body>
 <footer>
-   <p>natacha andrade</p>
+   <i>natacha andrade</i>
   <footer>
  </body>
 <html>                                                                                                                                                                                                                                     
