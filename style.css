@@ -1,1 +1,14 @@
-
+header{
+   align-itens: center;
+}
+p{
+   font-size: 16px;
+}
+footer{
+   text-align: center; 
+   font-size: 12px;
+}
+img{
+  height: 42px;
+  width: 42px;
+}
