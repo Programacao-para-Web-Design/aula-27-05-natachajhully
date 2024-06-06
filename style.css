@@ -7,48 +7,44 @@
 				font-size: 17px;
 				text-align: center;
 			}
-			#devj{
-				font-style: italic;
-				font-size: 25px;
-				text-align: center;
-			}
-
-			#nomees{
+			#nome1{
 				font-size: 17px;
 				text-align: center;
 			}
 			#Body{
-				background-color: green; 
+				background-color: pink; 
 			}
 			#Header{
 				background-color: blue; 
 			}
 			#logo{
 				background-color: white;
-			#Nav{
-				background-color: yellow;
+			#nav{
+				background-color: green;
 				box-shadow: 7px 7px 9px 0px black;
 			}
-			#man{
+			#main{
 				background-color: yellow; 
 			}
-			#ass{
-				background-color: red; 
+			#tres{
+				background-color: purple; 
 			}
-			#sex{
+			#meio{
+				background-color: blue; 
+			}
+			#um{
+				background-color: pink; 
+			}
+			#dois{
 				background-color: olive; 
 			}
-			#art{
-				background-color: orange; 
+			#quatro{
+				background-color: red; 
 			}
-			#art2{
-				background-color: rede; 
-			}
-			#ass2{
-				background-color: yellow; 
-			}
-			#fot{
-				background-color: blue; 
+			#footer{
+				background-color: pink; 
+           			font-size: 25px;
+				text-align: center;
 			}
 		</style>
 	</head>
