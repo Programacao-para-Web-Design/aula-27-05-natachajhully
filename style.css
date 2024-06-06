@@ -1,53 +1,22 @@
-<!DOCTYPE html>
-<html lang="pt br">
-	<head>
-		<style>
-			.nome{
-				font-weight: bold;	
-				font-size: 17px;
-				text-align: center;
-			}
-			#nome1{
-				font-size: 17px;
-				text-align: center;
-			}
-			#Body{
-				background-color: pink; 
-			}
-			#Header{
-				background-color: blue; 
-			}
-			#logo{
-				background-color: white;
-			#nav{
-				background-color: green;
-				box-shadow: 7px 7px 9px 0px black;
-			}
-			#main{
-				background-color: yellow; 
-			}
-			#tres{
-				background-color: purple; 
-			}
-			#meio{
-				background-color: blue; 
-			}
-			#um{
-				background-color: pink; 
-			}
-			#dois{
-				background-color: olive; 
-			}
-			#quatro{
-				background-color: red; 
-			}
-			#footer{
-				background-color: pink; 
-           			font-size: 25px;
-				text-align: center;
-			}
-		</style>
-	</head>
-	<body>
-	</body>
-</html>
+
+.example {
+    color: #FFF;
+    text-align: justify; /* Trocado o valor de center para justify */
+}
+    .example-item {
+        width: 25%;
+        height: 150px;
+        display: inline-block;
+    }
+    .example-item_first {
+        background-color: #FAA116;
+    }
+    .example-item_second {
+        background-color: #57C7C3;
+    }
+    .example-item_third {
+        background-color: #3B97D3;
+    }
+p {
+    text-align: justify; /* Trocado o valor de center para justify */
+}
