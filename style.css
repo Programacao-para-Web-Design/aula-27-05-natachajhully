@@ -1,4 +1,30 @@
-#nome{
+body{
+				background-color: blue; 
+			}
+			header{
+				background-color: pink; 
+			}
+			section{
+				background-color: red;
+			}
+			
+
+			#img{
+				background-color: white;
+				width:320px;
+				height:205px;
+				right: 1500px;
+				position: absolute; 
+				top: 700px;
+			#nav{
+				background-color: red;
+				box-shadow: 7px 7px 9px 0px black;
+			}
+			#main{
+				background-color: green; 
+
+			}
+			#nome{
 				font-weight: bold;	
 				font-size: 17px;
 				text-align: center;
@@ -7,43 +33,22 @@
 				font-size: 17px;
 				text-align: center;
 			}
-			#Body{
-				background-color: white; 
-			}
-			#Header{
-				background-color: white; 
-			}
-			#img{
-				background-color: purple;
-				width:320px;
-				height:205px;
-				right: 1500px;
-				position: absolute; 
-				top: 700px;
-			#nav{
-				background-color: blue;
-				box-shadow: 7px 7px 9px 0px black;
-			}
-			#main{
-				background-color: white; 
-			}
 			#tres{
-				background-color: grey; 
+				background-color: orange; 
 			}
 			#meio{
-				background-color: white; 
+				background-color: blue; 
 			}
 			#um{
-				background-color: grey; 
+				background-color: gray; 
 			}
 			#dois{
 				background-color: turquoise; 
 			}
 			#quatro{
-				background-color: white; 
+				background-color: brown; 
 			}
-			#footer{
-				background-color: grey; 
+			#k{
            			font-size: 25px;
 				text-align: center;
 			}
