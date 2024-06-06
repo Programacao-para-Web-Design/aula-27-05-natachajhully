@@ -1,92 +1,55 @@
-header {
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    text-decoration: none;
-    font-size: 16pt;
-    font-family:  Gill Sans, sans-serif;
-}
+body{
+				background-color: purple; 
+			}
+			header{
+				background-color: pink; 
+			}
+			section{
+				background-color: red;
+			}
+			
 
-img {
-    margin-right: 100px;
-    width: 190px;
-    height: 150px;    
-}
+			#img{
+				background-color: white;
+				width:320px;
+				height:205px;
+				right: 150px;
+				top: 70px;
+			}
+			#nav{
+				background-color: red;
+				box-shadow: 7px 7px 9px 0px black;
+			}
+			#main{
+				background-color: green; 
 
-li{
-    display: inline-block;
-    list-style-type: none;
-}
-
-nav {
-    color: #fee440;
-    background-color:9932CC;
-    text-decoration: none;
-    font-size: 16pt;
-    font-family:  Gill Sans, sans-serif;
-    padding: 20px;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
-    position: static;
-    border-radius: 20px;
-}
-
-main{
-    display: flex;
-    height: 60vh;
-}
-#page {
-    background-color:#9b5de5;
-    padding: 20px;
-    border-radius: 20px;
-    margin: 20px;
-    height: 85%;
-    width: 73%;
-    display: block;
-}
-#Article{
-    background-color: #fee440;
-    padding: 20px;
-    border-radius: 20px;
-    width: 20%;
-    height: 80%;
-    margin-left: 77%;
-}
-
-#Section {
-    background-color:#3a86ff;
-    width: 92%;
-    height: 34%;
-    padding: 20px;
-    margin-top: 10px;
-    border-radius: 20px;
-}
-
-#popo {
-    border-radius: 20px;
-    background-color: #3a86ff;
-    padding: 20px;
-    margin: 20px 0px 0px 0px;
-    height: 85%;
-    width: 20%;
-}
-
-#divisao {
-    background-color: DC143C;
-    width: 92%;
-    height: 48%;
-    padding: 20px;
-    border-radius: 20px;
-}
-footer {
-    background: #6b2e5f;
-    color: #fff;
-    text-align: center;
-    padding: 20px;
-    border-radius: 20px;
-    width: 98%;
-}
-footer p {
-    font-size: 1.2em;
-    font-family: 'Comic Sans MS', sans-serif;
-}
+			}
+			#nome{
+				font-weight: bold;	
+				font-size: 17px;
+				text-align: center;
+			}
+			#nome1{
+				font-size: 17px;
+				text-align: center;
+			}
+			#tres{
+				background-color: orange; 
+			}
+			#meio{
+				background-color: blue; 
+			}
+			#um{
+				background-color: gray; 
+			}
+			#dois{
+				background-color: turquoise; 
+			}
+			#quatro{
+				background-color: brown; 
+				flex-direction: column;
+			}
+			#k{
+           			font-size: 205px;
+				text-align: center;
+			}
