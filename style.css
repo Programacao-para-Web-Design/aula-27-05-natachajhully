@@ -3,9 +3,11 @@
 	<head>
 		<style>
 			#nome{
-				font-weight: bold;	
-				font-size: 17px;
-				text-align: center;
+				display: flex;
+                              position:fixed;
+                               color:white;
+                               background-color:purple ;
+                                   width: 100%;
 			}
 			#devj{
 				font-style: italic;
