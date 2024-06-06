@@ -1,20 +1,20 @@
 body{
-				background-color: rgb(255, 255, 255); 
+				background-color: rgb(33, 151, 247); 
 			}
 			header{
-				background-color: rgb(235, 204, 241); 
+				background-color: rgb(12, 81, 145); 
 				display: block;
 				justify-content: center;
 				align-items: center;
 				text-align: center;
 			}
 			section{
-				background-color: rgb(218, 97, 230);
+				background-color: rgb(44, 64, 180);
 			}
 			footer{
 				margin-top: 10px;
 				text-align: center;
-				background-color: rgb(213, 153, 224);
+				background-color: rgb(32, 35, 187);
 			}
 			
 			a{
@@ -23,19 +23,19 @@ body{
 			}
 
 			#img{
-				background-color: white;
+				background-color: rgb(57, 125, 228);
 				width:320px;
 				height:205px;
 				right: 150px;
 				top: 70px;
 			}
 			#nav{
-				background-color: rgb(179, 33, 236);
+				background-color: rgb(64, 163, 255);
 				box-shadow: 7px 7px 9px 0px black;
 			}
 			main{
 				margin-top: 20px;
-				background-color: rgb(182, 49, 194); 
+				background-color: rgb(6, 52, 112); 
 				display: flex;
 				height: 50vh;
 			}
@@ -49,30 +49,30 @@ body{
 				text-align: center;
 			}
 			#tres{
-				background-color: rgb(234, 0, 255); 
+				background-color: rgb(24, 109, 143); 
 				width: 20%;
 				height: 70%;
 				margin-left: 78%;
 			}
 			#meio{
-				background-color: #8d00ebb4; 
+				background-color: #14578db4; 
 				display: block;
 				width: 77%;
 			}
 			#um{
-				background-color: rgb(160, 19, 160); 
+				background-color: rgb(48, 114, 158); 
 				height: 40%;
 				margin-left: 10px;
 				width: 98%;
 			}
 			#dois{
-				background-color: rgb(85, 0, 141); 
+				background-color: rgb(16, 0, 245); 
 				height: 40%;
 				width: 98%;
 				margin-left: 10px;
 			}
 			#quatro{
-				background-color: rgb(175, 0, 161); 
+				background-color: rgb(22, 53, 119); 
 				flex-direction: column;
 				margin-left: 20px;
 				width: 20%;
