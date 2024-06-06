@@ -10,7 +10,7 @@ body{
 			
 
 			#img{
-				background-color: white;
+				background-color: blue;
 				width:320px;
 				height:500px;
 				right: 1500px;
@@ -34,7 +34,7 @@ body{
 				text-align: center;
 			}
 			#tres{
-				background-color: olive; 
+				background-color: black; 
 			}
 			#meio{
 				background-color: blue; 
