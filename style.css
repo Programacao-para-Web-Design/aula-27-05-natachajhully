@@ -18,10 +18,10 @@
 				text-align: center;
 			}
 			#Body{
-				background-color: blue;
+				background-color: red;
 			}
 			#Header{
-				background-color: red; 
+				background-color: blue; 
 			}
 			#logo{
 				background-color: white;
@@ -30,28 +30,30 @@
 				box-shadow: 7px 7px 9px 0px black;
 			}
 			#man{
-				background-color: green; 
+				background-color: olive; 
 			}
 			#ass{
-				background-color: pink; 
+				.example-item_first {
+                                    background-color: #FAA116;
 			}
 			#sex{
-				background-color: purple; 
+				background-color: blue; 
 			}
 			#art{
 				background-color: orange; 
 			}
 			#art2{
-				background-color: brown; 
+				background-color: black; 
 			}
 			#ass2{
 				background-color: gray; 
 			}
 			#fot{
-				background-color: maroon; 
+				background-color: teal; 
 			}
 		</style>
 	</head>
 	<body>
 	</body>
 </html>
+	
