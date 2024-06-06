@@ -23,6 +23,11 @@
 			#Header{
 				background-color: blue; 
 			}
+                        img{
+                             background-color: pink;
+		               width: 320px;
+				heigth: 205px;
+			}
 			#logo{
 				background-color: white;
 			#Nav{
