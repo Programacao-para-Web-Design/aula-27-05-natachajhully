@@ -1,74 +1,49 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <style>
-        #nome {
-            background-color: orange;
-            color: white;
-            font-family: arial;
-            font-size: 17px;
-            text-align: center;
-        }
-
-        #devj {
-            font-style: italic;
-            font-size: 25px;
-            text-align: center;
-        }
-
-        #Body {
-            background-color: red;
-        }
-
-        #Header {
-            background-color: blue;
-        }
-
-        img {
-            background-color: pink;
-            width: 320px;
-            height: 205px;
-        }
-
-        #logo {
-            background-color: white;
-        }
-
-        #Nav {
-            background-color: yellow;
-            box-shadow: 7px 7px 9px 0px black;
-        }
-
-        #man {
-            background-color: olive;
-        }
-
-        #ass {
-            background-color: olive;
-        }
-
-        #sex {
-            background-color: blue;
-        }
-
-        #art {
-            background-color: orange;
-        }
-
-        #art2 {
-            background-color: black;
-        }
-
-        #ass2 {
-            background-color: gray;
-        }
-
-        #fot {
-            background-color: teal;
-        }
-    </style>
-</head>
-<body>
-   
-</body>
-</html>
+#nome{
+				font-weight: bold;	
+				font-size: 17px;
+				text-align: center;
+			}
+			#nome1{
+				font-size: 17px;
+				text-align: center;
+			}
+			#Body{
+				background-color: white; 
+			}
+			#Header{
+				background-color: white; 
+			}
+			#img{
+				background-color: white;
+				width:320px;
+				height:205px;
+				right: 1500px;
+				position: absolute; 
+				top: 700px;
+			#nav{
+				background-color: blue;
+				box-shadow: 7px 7px 9px 0px black;
+			}
+			#main{
+				background-color: white; 
+			}
+			#tres{
+				background-color: grey; 
+			}
+			#meio{
+				background-color: white; 
+			}
+			#um{
+				background-color: grey; 
+			}
+			#dois{
+				background-color: turquoise; 
+			}
+			#quatro{
+				background-color: white; 
+			}
+			#footer{
+				background-color: grey; 
+           			font-size: 25px;
+				text-align: center;
+			}
