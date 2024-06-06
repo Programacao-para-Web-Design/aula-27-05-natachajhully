@@ -1,14 +1,57 @@
-header{
-   align-itens: center;
-}
-p{
-   font-size: 16px;
-}
-footer{
-   text-align: center; 
-   font-size: 12px;
-}
-img{
-  height: 42px;
-  width: 42px;
-}
+<!DOCTYPE html>
+<html lang="pt br">
+	<head>
+		<style>
+			.nome{
+				font-weight: bold;	
+				font-size: 17px;
+				text-align: center;
+			}
+			#devj{
+				font-style: italic;
+				font-size: 25px;
+				text-align: center;
+			}
+
+			#nomees{
+				font-size: 17px;
+				text-align: center;
+			}
+			#Body{
+				background-color: pink; 
+			}
+			#Header{
+				background-color: yellow; 
+			}
+			#logo{
+				background-color: white;
+			#Nav{
+				background-color: yellow;
+				box-shadow: 7px 7px 9px 0px black;
+			}
+			#man{
+				background-color: purple; 
+			}
+			#ass{
+				background-color: pink; 
+			}
+			#sex{
+				background-color: purple; 
+			}
+			#art{
+				background-color: blue; 
+			}
+			#art2{
+				background-color: brown; 
+			}
+			#ass2{
+				background-color: gray; 
+			}
+			#fot{
+				background-color: blue; 
+			}
+		</style>
+	</head>
+	<body>
+	</body>
+</html>
