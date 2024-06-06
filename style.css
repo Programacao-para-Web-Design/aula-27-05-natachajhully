@@ -1,65 +1,74 @@
 <!DOCTYPE html>
-<html lang="pt br">
-	<head>
-		<style>
-			#nome{
-				display: flex;
-                              position:fixed;
-                               color:white;
-                               background-color:purple ;
-                                   width: 100%;
-			}
-			#devj{
-				font-style: italic;
-				font-size: 25px;
-				text-align: center;
-			}
+<html lang="pt-br">
+<head>
+    <style>
+        #nome {
+            background-color: orange;
+            color: white;
+            font-family: arial;
+            font-size: 17px;
+            text-align: center;
+        }
 
-			#nome{
-				font-size: 17px;
-				text-align: center;
-			}
-			#Body{
-				background-color: red;
-			}
-			#Header{
-				background-color: blue; 
-			}
-                        img{
-                             background-color: pink;
-		               width: 320px;
-				heigth: 205px;
-			}
-			#logo{
-				background-color: white;
-			#Nav{
-				background-color: yellow;
-				box-shadow: 7px 7px 9px 0px black;
-			}
-			#man{
-				background-color: olive; 
-			}
-			#ass{
-				background-color: olive; 
-			}
-			#sex{
-				background-color: blue; 
-			}
-			#art{
-				background-color: orange; 
-			}
-			#art2{
-				background-color: black; 
-			}
-			#ass2{
-				background-color: gray; 
-			}
-			#fot{
-				background-color: teal; 
-			}
-		</style>
-	</head>
-	<body>
-	</body>
+        #devj {
+            font-style: italic;
+            font-size: 25px;
+            text-align: center;
+        }
+
+        #Body {
+            background-color: red;
+        }
+
+        #Header {
+            background-color: blue;
+        }
+
+        img {
+            background-color: pink;
+            width: 320px;
+            height: 205px;
+        }
+
+        #logo {
+            background-color: white;
+        }
+
+        #Nav {
+            background-color: yellow;
+            box-shadow: 7px 7px 9px 0px black;
+        }
+
+        #man {
+            background-color: olive;
+        }
+
+        #ass {
+            background-color: olive;
+        }
+
+        #sex {
+            background-color: blue;
+        }
+
+        #art {
+            background-color: orange;
+        }
+
+        #art2 {
+            background-color: black;
+        }
+
+        #ass2 {
+            background-color: gray;
+        }
+
+        #fot {
+            background-color: teal;
+        }
+    </style>
+</head>
+<body>
+    <!-- Adicione seus elementos HTML aqui -->
+</body>
 </html>
-	
