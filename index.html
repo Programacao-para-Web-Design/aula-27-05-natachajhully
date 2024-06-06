@@ -1,44 +1,100 @@
-<!doctype html>
-<html lang = "pt-br">
-	<head>
-		<meta charset = "utf-8">
-    <link rel="stylesheet" type="text/css" href="style.css" media="screen">
-	</head>
-	<body id="body">
-		<header id="header">
-      <h1 id="nome1"> CEEMTI Baixo Guandu </h1>
-      <img src="Logo Escola.png"/>
-			<nav id="nav">
-				<h1 id="titulo">  Navegação </h1>
-				 <a href="#um">Article 01 </a> 
-				 <a href="#footer">Footer</a> 
-				 <a href="#main"> Main  </a> 
-				 <a href="#tres">Aside 01 </a> 
-				 <a href="#meio"> Section </a> 
-				 <a href="#quatro"> Aside 02 </a> 
-				 <a href="#dois"> Article 02 </a> 
-			</nav>
-		</header>
-	 	 <main id="main">
-			<section id="meio">
-				<h1 class="nome"> Seção </h1>
-				<article id="um">
-					<h1 class="nome"> Artigo </h1>
-				</article>
-				<article id="dois">
-					<h1 class="nome"> Artigo </h1>
-					<aside id="tres">
-						<h1 class="nome">  Aparte </h1>
-					</aside>
-				</article>
-			</section>
-			 <aside id="quatro">
-				<h1 class="nome">  Aparte </h1> 
-			 </aside>
-		</main>
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
 
-		<footer id="footer">
-			<i>natacha</i>
-		</footer>
-	</body>
+        <meta charset="UTF-8">
+        <title>Aula-08/05</title>
+        <style>
+            header{
+                display: flex;
+                flex-direction: row;
+                justify-content: space-between;
+                align-items: center;
+                margin-right: 10px;
+                width: 100%;
+                background-position: center;
+                background-color: rgba(0, 0, 0, 0.663);
+            }
+            img{
+                height: 40px;
+                width: 40x;
+
+            }
+            li{ 
+                display: inline-block;
+            }
+            a{
+                color: white;
+                font-size: x-large;
+            }
+            #title{
+                color: white;
+                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                font-size: 20pt;
+            }
+
+
+            body{
+                background-image: url("./SatoroSukuna.png");
+                background-size: cover;
+            }
+            h1{
+                font-size: 14pt;
+                display: inline-block;
+                font-weight: bold;
+                color: white;
+            }
+            main{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 100%;
+                flex-direction: column;
+            }
+
+
+            .materia{
+                right: 50%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            .center{
+                margin-top: 50px;
+                background-color: rgba(0, 0, 0, 0.663);
+                width: 45%;
+            }
+            .text{
+                margin-left: 20px;
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <article id="title">
+                <img src="./Logo Escola.png" alt="logoescola">
+                 CEEMTI BG
+            </article>
+            <ul>
+                <a><li> PWD </li></a>
+                <a> <li> DG </li></a>
+                <a> <li> APS </li></a>
+            </ul>
+        </header>
+
+        <main>
+            <section class="center">
+                <h1 class="materia"> PWD(Programação Web Design) </h1>
+
+                <h1 class="text"> 
+                    
+                </h1>
+            </section>
+            <section class="bloco" id="bloco1">
+               
+
+        
+            </section>
+        </main>
+    </body>
 </html>
